@@ -1,0 +1,3 @@
+Git add aggiunge un cambiamento nella working directory, vuol dire che vuoi includere
+l'update a un determinato file nel prossimo commit, ma il cambiamento non è effettivo
+finchè non si fa il commit
